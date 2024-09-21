@@ -30,9 +30,7 @@ button:active {
   color: white;
 }
 
-.action:active {
-  background-color: green;
-}
+
 
 .action:focus {
   background-color: red;
